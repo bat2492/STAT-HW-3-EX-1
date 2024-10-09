@@ -5,7 +5,7 @@ SELECT * FROM Students;
 #Basic Queries
 
 #2
-SELECT * FROM Students WHERE Age > 30;
+SELECT Name FROM Students WHERE Age > 30;
 #3
 SELECT Name FROM Students WHERE Gender='F' AND Age=30;
 #4
